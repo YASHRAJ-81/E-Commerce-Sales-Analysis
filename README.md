@@ -1,4 +1,4 @@
-README.md – Project 1
+Project 1
 E-Commerce Sales Analysis using Python
 Project Overview
 
